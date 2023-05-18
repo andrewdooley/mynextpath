@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+  color: white;
+  width: fit-content;
+}
+
+img {
+  width: 30px;
+  height: 30px;
+  margin-top: 10px;
+}
+
+h1 {
+  vertical-align: text-top;
+}
+
+h2 {
+  display: flex;
+  justify-content: space-around;
+}
+
+p {
+  text-align: center;
+  padding: 3px;
+}
+
+#routeDiv {
+  border-style: solid;
+  margin: 4px;
+}
+
+#dropdown {
+  display: flex;
+  justify-content: center;
+}
+
+#header {
+  display: flex;
+  justify-content: center;
+
+  border: 0px;
+}
+
+#trainpic {
+  width: 30px;
+  height: 30px;
+}
+
+#leaving {
+  font-size: medium;
+  margin-right: 10px;
+  margin-bottom: 1px;
+}
